@@ -2,7 +2,8 @@
 
 ```md
 # SpaceX ETL Process
-This project performs an **ETL (Extract, Transform, Load)** process using SpaceX data. The data is extracted from public APIs, transformed, and stored in different layers: Bronze, Silver, and Gold.
+This project performs an **ETL (Extract, Transform, Load)** process using SpaceX data.
+The data is extracted from public APIs, transformed, and stored in different layers: Bronze, Silver, and Gold.
 
 ---
 
