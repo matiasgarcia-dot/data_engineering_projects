@@ -1,7 +1,7 @@
 # 🚗 Car Sales Analytics: PySpark + Power BI + ETL
 
 ## 📖 Description
-This project performs an ETL (Extract, Transform, Load) process using **PySpark** to transform and analyze car sales data. The transformed data is visualized in **Power BI** through PDF charts and a Power BI template, highlighting best-selling car brands and transmission type analysis (automatic vs. manual).
+This project performs an ETL (Extract, Transform, Load) process using **PySpark** to transform and analyze car sales data (https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data). The transformed data is visualized in **Power BI** through PDF charts and a Power BI template, highlighting best-selling car brands and transmission type analysis (automatic vs. manual).
 
 ## ✨ Main Features
 
