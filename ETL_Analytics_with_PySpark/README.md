@@ -102,9 +102,6 @@ The output includes:
 - **Interactive Dashboard**: Power BI template to interact with the processed data.
 
 
-## 📧 Contact
-For any questions or contributions, feel free to contact **Matias Garcia**.
-matisgar32@gmail.com
 
 
 
