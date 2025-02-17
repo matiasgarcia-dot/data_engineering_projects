@@ -1,5 +1,4 @@
 
-
 ```md
 # SpaceX ETL Process
 This project performs an **ETL (Extract, Transform, Load)** process using SpaceX data.
@@ -8,14 +7,21 @@ The data is extracted from public APIs, transformed, and stored in different lay
 ---
 
 ## Project Structure
-SpaceX-ETL/
-├── extract.py
-├── transform.py
-├── load.py
+spacex_data_pipeline_ETL/
+│
 └── delta_lake_data/
-    ├── bronze/
-    ├── silver/
-    └── gold/
+│    ├── bronze/
+│    ├── silver/
+│    └── gold/
+│
+└── scripts/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│
+├── README.md/
+│
+└── requirement.txt/
 
 ### Requirements
 - Python 3.x  
@@ -26,7 +32,7 @@ SpaceX-ETL/
 1. **Install dependencies:**  
    In the terminal, run:
    ```bash
-   pip install delta pyarrow requests deltalake pandas
+   pip install -r requirement.txt
    ```
 
 
@@ -55,6 +61,6 @@ SpaceX-ETL/
 
 ## Notes
 - JSON files are used for data storage in each layer.  
-- Feel free to modify the transformation logic in `transform.py` to fit your needs.
+
 
 
