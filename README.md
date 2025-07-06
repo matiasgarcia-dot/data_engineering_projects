@@ -20,11 +20,18 @@ Welcome to my **Data Engineering Projects** repository! 🚀 Here, you'll find p
 - **Description:** Processes country risk data, cleaning and storing it for analysis.
 - **Technologies:** Python, Pandas, API
 - **Folder:** [`country_risk_ETL`](./country_risk_ETL)
+
+### 3. Clean Data MySQL
+- **Description:** Import CSV, cleaned, optimize and export to clean database Employ's company .
+- **Technologies:** MySQL Workbench and CSV.
+- **Folder:** [`Clean_Data_MySQL`](./Clean_Data_MySQL)
 ---
 
 ## 🛠️ Technologies Used
 - **Python 3.x**
 - **PySpark**
+- **MySQL Workbench**
+- **CSV**
 - **Delta Lake**
 - **REST APIs**
 - **Pandas**
