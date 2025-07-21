@@ -22,17 +22,26 @@ Welcome to my **Data Engineering Projects** repository! 🚀 Here, you'll find p
 - **Folder:** [`country_risk_ETL`](./country_risk_ETL)
 
 ### 3. Clean Data MySQL
-- **Description:** Import CSV, cleaned, optimize and export to clean database Employ's company .
+- **Description:** Import CSV, cleaned, optimize and export to clean database Employ's company.
 - **Technologies:** MySQL Workbench and CSV.
 - **Folder:** [`Clean_Data_MySQL`](./Clean_Data_MySQL)
+
+### 4. Python_Game_Space_Invaders
+- **Description:** A customized version of the classic Space Invaders, developed as a group academic project for the Programming Technician program (UTN San Rafael). I participated in the development of the game's main loop and the basic level layout, with support from peers and technical assistance.
+- **Technologies:** Python 3, Pygame, SQLite, Git, GitHub.
+- **Folder:** [`Python_Game_Space_Invaders`](./Space_Invaders_UTN)
+- **Proyect Video:** https://drive.google.com/file/d/1MJLILGkoGaGpMZW0b_3PS-NrMR8TpJsg/view?usp=drive_link
 ---
 
 ## 🛠️ Technologies Used
 - **Python 3.x**
 - **PySpark**
 - **MySQL Workbench**
+- **SQLite**
+- **PyGame**
 - **CSV**
 - **Delta Lake**
+- **API**
 - **REST APIs**
 - **Pandas**
 - **Power Bi**
