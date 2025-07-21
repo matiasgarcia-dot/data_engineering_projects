@@ -29,7 +29,7 @@ Welcome to my **Data Engineering Projects** repository! 🚀 Here, you'll find p
 ### 4. Python_Game_Space_Invaders
 - **Description:** A customized version of the classic Space Invaders, developed as a group academic project for the Programming Technician program (UTN San Rafael). I participated in the development of the game's main loop and the basic level layout, with support from peers and technical assistance.
 - **Technologies:** Python 3, Pygame, SQLite, Git, GitHub.
-- **Folder:** [`Space-Invaders-UTN`](./https://github.com/matiasgarcia-dot/data_engineering_projects/tree/main/Python_Game_Space_Invaders))
+- **Folder:** [`Space-Invaders-UTN`]
 - **Proyect Video:** https://drive.google.com/file/d/1MJLILGkoGaGpMZW0b_3PS-NrMR8TpJsg/view?usp=drive_link
 ---
 
